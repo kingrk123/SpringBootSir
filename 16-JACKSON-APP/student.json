@@ -1,0 +1,22 @@
+[
+	{
+		"sid": 101,
+		"sname": "Ashok",
+		"sage": 25,
+		"address": {
+			"city": "Hyd",
+			"state": "TG",
+			"country": "India"
+		}
+	},
+	{
+		"sid": 201,
+		"sname": "John",
+		"sage": 34,
+		"address": {
+			"city": "Vegas",
+			"state": "New York",
+			"country": "USA"
+		}
+	}
+]
